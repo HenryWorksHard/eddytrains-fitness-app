@@ -4,7 +4,7 @@ A client-facing fitness application for **EddyTrains** coaching business. Provid
 
 ![EddyTrains](https://img.shields.io/badge/EddyTrains-Fitness-ff6b35?style=for-the-badge)
 
-## 🚀 Live Demo
+## Live Demo
 
 **[View Live App](https://henryworkshard.github.io/eddytrains-fitness-app/)**
 
@@ -12,21 +12,21 @@ A client-facing fitness application for **EddyTrains** coaching business. Provid
 - Email: `demo@eddytrains.com`
 - Password: `demo123`
 
-## ✨ Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 - Email-based client login
 - Secure session management with localStorage
 - Demo account for testing
 
-### 💪 Workouts
+### Workouts
 - **Today's Workout** - prominently displayed on dashboard
 - **Program Selector** - Push, Pull, Legs, Upper, Lower splits
 - **Smart Weight Calculation** - recommended weights based on your 1RM percentages
 - **Exercise Tutorials** - embedded YouTube videos with step-by-step instructions
 - **Pro Tips** - form cues and common mistakes to avoid
 
-### 🥗 Nutrition Calculator
+### Nutrition Calculator
 - **BMR Calculation** using Mifflin-St Jeor equation
 - **Activity Level Multipliers** - sedentary to very active
 - **Goal-Based Adjustments**:
@@ -36,32 +36,32 @@ A client-facing fitness application for **EddyTrains** coaching business. Provid
 - **Macro Breakdown** - protein, carbs, fats in grams
 - **Personalized Tips** based on your goal
 
-### 📈 Progress Tracking
+### Progress Tracking
 - **1RM Tracking** - Squat, Bench, Deadlift, OHP, Row
 - **Progress Charts** - visualize strength gains over time
 - **Weekly Photo Uploads** - track your transformation
 - **Auto-updating workout weights** based on your current 1RMs
 
-### 🏃 Cardio Section
+### Cardio Section
 - **LISS** - Low Intensity Steady State
 - **HIIT** - High Intensity Interval Training
 - **Cycling** - Interval workouts
 - **Rowing** - Full body cardio protocols
 
-### 🏆 Hyrox Training
+### Hyrox Training
 - **Race Simulation** - complete Hyrox workout
 - **Station Practice** - master each station
 - **Running Endurance** - build your base
 - **Functional Strength** - prepare for stations
 
-## 🎨 Design
+## Design
 
 - Clean, modern dark theme
 - Mobile-first responsive design
 - Smooth animations and transitions
 - Professional UI matching EddyTrains brand
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** - Semantic markup
 - **CSS3** - Custom properties, Flexbox, Grid
@@ -70,7 +70,7 @@ A client-facing fitness application for **EddyTrains** coaching business. Provid
 - **Font Awesome** - Icons
 - **localStorage** - Client-side data persistence
 
-## 📱 Screenshots
+## Screenshots
 
 The app features:
 - Login screen with brand identity
@@ -81,7 +81,7 @@ The app features:
 - Progress charts and photo gallery
 - Cardio and Hyrox training modules
 
-## 🚀 Deployment
+## Deployment
 
 Hosted on GitHub Pages. To deploy your own:
 
@@ -91,7 +91,7 @@ Hosted on GitHub Pages. To deploy your own:
 4. Choose `main` branch and root folder
 5. Your app will be live at `https://yourusername.github.io/eddytrains-fitness-app/`
 
-## 📝 Future Enhancements
+## Future Enhancements
 
 - [ ] Backend integration for real user accounts
 - [ ] Workout logging and history
@@ -101,7 +101,7 @@ Hosted on GitHub Pages. To deploy your own:
 - [ ] Custom workout builder
 - [ ] Meal planning and recipes
 
-## 👨‍💻 Development
+## Development
 
 ```bash
 # Clone the repo
@@ -113,10 +113,10 @@ open index.html
 
 No build step required - pure HTML/CSS/JS!
 
-## 📄 License
+## License
 
 MIT License - feel free to use this as a template for your own fitness app.
 
 ---
 
-Built with 💪 for **EddyTrains** by Louis
+Built for **EddyTrains** by Louis
